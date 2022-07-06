@@ -1,0 +1,17 @@
+ArgMatches {
+    args: {
+        "text": MatchedArg {
+            occurs: 1,
+            indices: [
+                1,
+            ],
+            vals: [
+                "Hello",
+            ],
+        },
+    },
+    subcommand: None,
+    usage: Some(
+        "USAGE:\n    echor [FLAGS] <TEXT>...",
+    ),
+}
